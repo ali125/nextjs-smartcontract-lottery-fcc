@@ -11,6 +11,7 @@ export default function Home() {
       <main className="min-h-screen">
         <Header />
         <LotteryEntrance />
+        <div>WHATS UP</div>
       </main>
       {/* </NotificationProvider> */}
     </MoralisProvider>
